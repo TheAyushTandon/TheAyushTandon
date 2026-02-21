@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theayushtandon&label=Profile%20views&color=0e75b6&style=flat" alt="theayushtandon" /> </p>
 
-- 🔭 I’m currently working on **Internship projects**
+- 🔭 I’m currently working on **Internship projects and Clubs & Chapters**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development/AIML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheAyushTandon](https://github.com/TheAyushTandon)
 
