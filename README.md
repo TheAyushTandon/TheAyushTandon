@@ -14,5 +14,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheAyushTandon&icon=1&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theayushtandon&label=Profile%20views&color=0e75b6&style=flat" alt="theayushtandon" /> </p>
