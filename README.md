@@ -27,7 +27,7 @@ I build full-stack web apps, interactive 3D on the web, and machine learning pro
 |:--|:--|
 | **Name** | Ayush Tandon |
 | **Alias** | TheKizuya |
-| **Class** | Full-stack developer |
+| **Class** | Full-stack AI developer |
 | **Weapons** | TypeScript, Python, C++ |
 | **Specialty** | Three.js, machine learning, web apps |
 
