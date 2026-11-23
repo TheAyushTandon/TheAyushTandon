@@ -1,17 +1,85 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@thekizuya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheKizuya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TheAyushTandon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theayushtandon@gmail.com) 
+<img src="assets/header.svg" width="100%" alt="Ayush Tandon, aka TheKizuya. Full-stack developer, ML, 3D web." />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheAyushTandon&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheAyushTandon&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyushTandon&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/TheAyushTandon"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://discord.gg/@thekizuya"><img src="assets/btn-discord.svg" height="44" alt="Discord" /></a>
+<a href="https://instagram.com/TheKizuya"><img src="assets/btn-instagram.svg" height="44" alt="Instagram" /></a>
+<a href="mailto:theayushtandon@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=TheAyushTandon&icon=1&color=8)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theayushtandon&label=Profile%20views&color=0e75b6&style=flat" alt="theayushtandon" /> </p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=theayushtandon&label=Profile%20views&color=E11D2E&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<img src="assets/section-about.svg" width="100%" alt="About" />
+
+<br/>
+
+I build full-stack web apps, interactive 3D on the web, and machine learning projects. React, Next.js and Node on one side, Django and FastAPI on the other, with PyTorch and Three.js whenever a project gets fun.
+
+| | |
+|:--|:--|
+| **Name** | Ayush Tandon |
+| **Alias** | TheKizuya |
+| **Class** | Full-stack developer |
+| **Weapons** | TypeScript, Python, C++ |
+| **Specialty** | Three.js, machine learning, web apps |
+
+<br/>
+
+<img src="assets/section-stack.svg" width="100%" alt="Stack" />
+
+<br/>
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,java,html,css&theme=dark" alt="C++, Python, TypeScript, JavaScript, Java, HTML, CSS" />
+
+**Frontend and 3D**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,threejs&theme=dark" alt="React, Next.js, Angular, Tailwind CSS, Vite, Three.js" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,prisma,npm&theme=dark" alt="Node.js, Express, Django, FastAPI, Flask, Prisma, npm" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j,firebase,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Neo4j, Firebase, Supabase" />
+
+**Machine learning and data**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas" />
+
+**Cloud and tools**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,github,git,figma,postman,jira&theme=dark" alt="AWS, Google Cloud, Vercel, GitHub, Git, Figma, Postman, Jira" />
+
+<br/>
+
+<img src="assets/section-activity.svg" width="100%" alt="Activity" />
+
+<br/>
+
+<!--
+  CONTRIBUTION SNAKE (optional)
+  1. Add .github/workflows/snake.yml from this bundle and run it once from the Actions tab.
+  2. When the 'output' branch exists, delete this comment wrapper so the image below shows.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheAyushTandon/TheAyushTandon/output/snake.svg" alt="Contribution snake" />
+</p>
+-->
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAyushTandon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=E11D2E&text_color=F5F5F5&icon_color=E11D2E&bg_color=0A0A0A&border_color=E11D2E&ring_color=E11D2E" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyushTandon&layout=compact&hide_border=false&include_all_commits=true&count_private=true&title_color=E11D2E&text_color=F5F5F5&bg_color=0A0A0A&border_color=E11D2E" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TheAyushTandon&background=0A0A0A&border=E11D2E&stroke=2C2C2C&ring=E11D2E&fire=E11D2E&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=E11D2E&sideLabels=F5F5F5&dates=8A8A8A" alt="Contribution streak" />
+</p>
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="See you around" />

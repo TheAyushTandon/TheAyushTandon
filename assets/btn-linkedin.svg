@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 44" width="215" height="44" role="img" aria-labelledby="t d">
+<title id="t">Linkedin</title>
+<desc id="d">Link button: Linkedin</desc>
+<style>
+
+.sh{animation:sh 3.8s ease-in-out infinite}
+@keyframes sh{0%{transform:translateX(-90px)}55%,100%{transform:translateX(305px)}}
+
+@media (prefers-reduced-motion: reduce) { * { animation-play-state: paused !important; } }
+</style>
+
+<defs><clipPath id="c"><polygon points="10,0 215,0 205,44 0,44"/></clipPath></defs>
+<polygon points="10,0 215,0 205,44 0,44" fill="#0A0A0A" stroke="#E11D2E" stroke-width="2"/>
+<polygon points="10,0 56,0 46,44 0,44" fill="#E11D2E"/>
+<path d="M20,13 L32,22 L20,31Z M31,13 L43,22 L31,31Z" fill="#0A0A0A"/>
+<path d="M73.2 28H79.3V26H75.6V16.1H73.2Z M83.8 28H90.2V26H88.2V18.1H90.2V16.1H83.8V18.1H85.8V26H83.8Z M94.8 28H96.7V23.2C96.7 21.9 96.6 20.3 96.5 19.1H96.5L97.2 22L98.9 28H101.2V16.1H99.3V20.9C99.3 22.2 99.4 23.8 99.5 25H99.5L98.8 22.1L97.1 16.1H94.8Z M105.7 28H108.1V24.9L109 23L110.4 28H112.8L110.4 20.8L112.6 16.1H110.2L108.1 21.3H108.1V16.1H105.7Z M117.1 28H123.2V26H119.5V22.8H122.5V20.9H119.5V18.1H123.1V16.1H117.1Z M127.7 28H130C132.7 28 134.5 26 134.5 22C134.5 18 132.7 16.1 129.9 16.1H127.7ZM130.1 26.1V18H130.4C131.4 18 132.1 19.1 132.1 22C132.1 24.9 131.4 26.1 130.4 26.1Z M138.8 28H145.2V26H143.2V18.1H145.2V16.1H138.8V18.1H140.8V26H138.8Z M149.8 28H151.7V23.2C151.7 21.9 151.6 20.3 151.5 19.1H151.5L152.2 22L153.9 28H156.2V16.1H154.3V20.9C154.3 22.2 154.4 23.8 154.5 25H154.5L153.8 22.1L152.1 16.1H149.8Z" fill="#F5F5F5"/>
+<path d="M177,15 L189,22 L177,29Z" fill="#E11D2E"/>
+<g clip-path="url(#c)"><polygon class="sh" points="0,0 22,0 6,44 -16,44" fill="#fff" fill-opacity=".14"/></g>
+
+</svg>
